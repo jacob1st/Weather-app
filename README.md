@@ -8,6 +8,10 @@ and here: https://api.openweathermap.org/data/2.5/weather
 
 
 IMPORTANT:
-
-You will need to sign up to openweathermap (which is free) and sub to the current weather and 5-day forcast (both free)
+You will need to sign up to openweathermap (which is free) and sub to the current weather and 5-day forcast (both free).
 Then put in your own API key in the key variable. (line #106 in the GUI and #64 in the CLI)
+
+----
+![current_temp](https://github.com/jacob1st/Weather-app/blob/main/Images/weatherapp_current_temp.PNG)
+----
+![tomorrow_temp](https://github.com/jacob1st/Weather-app/blob/main/Images/weatherapp_tom_forcast.PNG)
